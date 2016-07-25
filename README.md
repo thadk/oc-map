@@ -1,6 +1,10 @@
 # GGwash map 1
 
-This repo contains the source code for the map and table widgets.
+Initially envisioned as a crowdsourcing platform, we scaled back to a simple static regeneratable map. 
+
+The related repositories for the crowdsourcing aspect, ultimately unused, hosted on Heroku are at https://github.com/thadk/ggwash-data https://github.com/thadk/ggwash-form https://github.com/thadk/ggwash-form-server using DevSeed's Blue Pencil github authenticated forms. Reach out to me, I'd be happy to work with you to expand for your use case.
+
+This repo contains the source code for the map widget.
 
 ## Project build
 To compile the assets, you'll need to install the following dependencies on your system:
